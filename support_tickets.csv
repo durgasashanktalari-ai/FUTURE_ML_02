@@ -1,0 +1,31 @@
+Ticket_ID,Customer_Message,Category,Priority
+1,Internet is not working properly,Technical Issue,High
+2,Payment failed but money deducted,Billing Issue,High
+3,Unable to login to my account,Login Issue,Medium
+4,Application crashes frequently,Technical Issue,High
+5,Need refund for wrong transaction,Billing Issue,High
+6,Forgot my password,Login Issue,Medium
+7,Slow network connection,Technical Issue,Medium
+8,Product delivery delayed,Service Issue,Low
+9,Account suspended without reason,Account Issue,High
+10,Unable to update profile settings,Technical Issue,Medium
+11,Incorrect bill amount charged,Billing Issue,High
+12,Customer support not responding,Complaint,Medium
+13,Mobile app not opening,Technical Issue,High
+14,Need invoice copy,Billing Issue,Low
+15,Password reset link not working,Login Issue,Medium
+16,Service interrupted frequently,Technical Issue,High
+17,Refund not processed,Billing Issue,High
+18,Issue with account verification,Account Issue,Medium
+19,Website loading very slowly,Technical Issue,Medium
+20,Want to cancel subscription,Service Issue,Low
+21,Payment gateway error,Billing Issue,High
+22,Unable to receive OTP,Login Issue,Medium
+23,System showing server error,Technical Issue,High
+24,Complaint regarding poor service,Complaint,Medium
+25,Account locked after login attempts,Account Issue,High
+26,Need help with installation,Service Issue,Low
+27,Data syncing problem detected,Technical Issue,Medium
+28,Wrong amount debited twice,Billing Issue,High
+29,Unable to access dashboard,Technical Issue,Medium
+30,General inquiry about services,General Query,Low
